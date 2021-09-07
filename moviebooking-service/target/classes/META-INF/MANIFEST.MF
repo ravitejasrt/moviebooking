@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Built-By: durgavenkatasubhashchinnam
+Build-Jdk: 13.0.2
+Implementation-Title: moviebooking-service
+Implementation-Version: 1.0-SNAPSHOT
+Implementation-Vendor-Id: com.ticketbooking.api
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-boot
+ -starter-parent/moviebooking-service
+Created-By: Maven Integration for Eclipse
+

@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Built-By: durgavenkatasubhashchinnam
+Build-Jdk: 13.0.2
+Implementation-Title: discovery-service
+Implementation-Version: 1.0-SNAPSHOT
+Implementation-Vendor-Id: pl.piomin.services
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-boot
+ -starter-parent/discovery-service
+Created-By: Maven Integration for Eclipse
+

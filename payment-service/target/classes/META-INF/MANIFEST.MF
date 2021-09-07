@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Built-By: durgavenkatasubhashchinnam
+Build-Jdk: 13.0.2
+Implementation-Title: payment-service
+Implementation-Version: 1.0-SNAPSHOT
+Implementation-Vendor-Id: com.payment.api
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-boot
+ -starter-parent/payment-service
+Created-By: Maven Integration for Eclipse
+
